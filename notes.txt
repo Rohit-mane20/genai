@@ -1,0 +1,12 @@
+#classification (ouptput) => we use Majority Voting
+#regression (output) => we use Averaging
+
+If the output space is unlimited or continuous → Regression. (e.g., predicting house prices, temperatures, etc. 0 to infinity)
+If the output space is limited to discrete fixed options → Classification.(eg. spam or not spam, cat or dog, etc. 0 or 1)
+
+
+#Row sampling
+
+# what is decision trees 
+what is Random Forests
+

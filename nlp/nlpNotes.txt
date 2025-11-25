@@ -1,0 +1,14 @@
+practile application of NLP
+    Text to summarize key points
+    Image classification techniques
+    object detection methods
+    translation
+    text summarization
+
+
+Tokenization in NLP
+ paragraph => corpus
+ sentence => documents
+ unique words => tokens
+ 
+ sentence is also a token along with words 
